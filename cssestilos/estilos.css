@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+.imagen {
+    margin:auto;
+    display:block;
+}
+ body {
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  radial-gradient(#8e93fa 1.1500000000000001px, transparent 1.1500000000000001px), radial-gradient(#8e93fa 1.1500000000000001px, #e5e5f7 1.1500000000000001px);
+    background-size: 46px 46px;
+    background-position: 0 0,23px 23px;}
+
+       /**Utilicé un background de la página www.magicpattern.design */
+
+
+h1{ color: rgb(7, 7, 7);
+    width: 200px
+    height 500px;
+    margin: 0;
+text-align: center; background-color: rgb(124, 180, 252); border-style: groove;
+font-family: 'Lexend Deca', sans-serif;}
+
+
+.contacto {background-color: rgb(124, 180, 252);  
+    border-top: 0ch; padding: 1px;
+    width: 30%; border: top 0; text-align: center; margin: 0 auto}
+
+
+#info-contacto { color: rgb(7, 7, 7);  border-top: 0ch; padding: 1px;
+    width: 30%; border: top 0;;
+    margin: 0 auto; text-align: 
+    center; 
+    background-color: rgb(89, 194, 255);  
+    border-color: black; 
+    border-style: solid;}
+
+    h3 { color: rgb(7, 7, 7);  border: 1px; padding: 1px;
+        width: 30%; align-self: flex-end;
+        background-color: rgb(124, 180, 252);  
+        border-color: black; 
+        border-style: solid; 
+        font-family: 'Lexend Deca', sans-serif; }
+
+    .contacto {text-align: center; font-family: 'Lexend Deca', sans-serif;}
+
+    .items {padding: 4px; padding-top: 0%; text-align: left;  border: 2px;  border: solid black; font-family: 'Lexend Deca', sans-serif;}
+
+.habilidades {font-family: 'Lexend Deca', sans-serif;}
+
+    #idiomas { color: rgb(7, 7, 7);  border: 1px; padding: 1px;
+        width: 50%; border: top 0;margin: 0 auto
+        ; text-align: 
+        center; 
+        background-color: rgb(124, 180, 252);  
+        border-color: black;  border-left: 0px;
+        border-style: solid ; position: relative; top: -172px;}
+  
+        #tabla { width: 50%;  margin : 0 auto
+            ; text-align:  center; position: relative; top: -172px; font-family: 'Lexend Deca', sans-serif; }
+
+
+    section {display: flex;
+    width: 500px; height: 330px;}
+
+    section img {width: 0px;
+         flex-grow: 1;
+          object-fit: cover;
+        opacity: 8;
+        transition: 5s ease; }
+
+    section img:hover {
+        width: 300px;
+        opacity: 1;
+        filter: contrast(120%);}
+
+        #boton {  font-weight: bold; 
+            margin-top: 30px;
+            margin-left: 600px; 
+             position: relative; top: -360px; }
+
+    
+     #redessociales {
+        display: none; font-weight: bold; 
+        margin-top: 30px;
+        margin-left: 600px; 
+         position: relative; top: -360px; }
+        
+        
+
+
+                     
+
+   
+
